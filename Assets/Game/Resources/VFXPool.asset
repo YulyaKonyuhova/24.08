@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 445ec7f945fb919428c486224d008043, type: 3}
+  m_Name: VFXPool
+  m_EditorClassIdentifier: 
+  _size: 5
+  _vfxPrefab: {fileID: 3513010881204943249, guid: 63d635814a237b746bf93c6a1ead90de, type: 3}
